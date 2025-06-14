@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnityExplorerPuckEdition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c962fa9f75a9977ffc1e9738e260361851a742be")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnityExplorerPuckEdition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnityExplorerPuckEdition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
