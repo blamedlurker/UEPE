@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ccucWRPzDJEb66X/UmgcagqCYiET8SdzJXXSLyiEYRBjIrEuFPHhgYSym+Ouxb7ub9ebU9rA2dn9YrDXabt5RA==",
+  "success": true,
+  "projectFilePath": "/home/blame/coding/puck_mods/UEPE/UEPE.csproj",
+  "expectedPackageFiles": [
+    "/home/blame/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/blame/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.3/microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

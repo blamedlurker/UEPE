@@ -1,0 +1,9 @@
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UEPE.csproj.AssemblyReference.cache
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UEPE.GeneratedMSBuildEditorConfig.editorconfig
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UEPE.AssemblyInfoInputs.cache
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UEPE.AssemblyInfo.cs
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UEPE.csproj.CoreCompileInputs.cache
+/home/blame/coding/puck_mods/UEPE/bin/Debug/net4.8/UnityExplorerPuckEdition.dll
+/home/blame/coding/puck_mods/UEPE/bin/Debug/net4.8/UnityExplorerPuckEdition.pdb
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UnityExplorerPuckEdition.dll
+/home/blame/coding/puck_mods/UEPE/obj/Debug/net4.8/UnityExplorerPuckEdition.pdb
